@@ -1,9 +1,9 @@
-# nerfs.fyi
-A website collection of public and open-source NeRFs and neural rendering techniques.
+# renders.fyi
+A website collection of public and open-source inverse and neural rendering papers.
 
 **Tech stack**
-
+- Postgres
 
 **Sources**
-- Arxiv
-- 
+- Arxiv API
+- Looking for more 
